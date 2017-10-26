@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.554463,
+          39.992447
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Arcanum Public Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98861,
+          39.293711
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Blanchester Public Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.863014,
+          40.243213
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Community Library, Sunbury"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-82.893200,
+		40.500559
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Cardington-Lincoln Public Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.372213,
+          39.625753
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Germantown Public Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-84.353124,
+		40.116859
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "J.R. Clarke Public Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-82.662088,
+		40.882708
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Marvin Memorial Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-82.826993,
+		40.548807
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Mount Gilead Public Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-82.684056,
+		40.480278
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Selover Public Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-84.485417,
+		40.215446
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Worch Memorial Public Library"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		-82.951691,
+		40.409234
+        ]
+      },
+      "properties": {
+        "marker-color": "#097f71",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "name": "Wornstaff Memorial Library"
+      }
+    }
+  ]
+}
