@@ -23,7 +23,7 @@ for index, row in df.iterrows():
                   icon=folium.features.CustomIcon(row["ICON"],
                                                   popup_anchor=(9, -19))).add_to(my_map)
 
-# Export Map: '/Users/Derek/Desktop/map.html'
+#Export Map: '/Users/Derek/Desktop/map.html'
 path = 'map.html'
 
 my_map.save(path)
